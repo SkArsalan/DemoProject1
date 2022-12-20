@@ -1,0 +1,53 @@
+aside {
+    width: 200px;
+    height: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+  
+  }
+  
+   #main{
+    display: flex;
+    margin-top: 30px;
+  }
+  
+  h2{
+      color: skyblue;
+  }
+  h4{
+      color: skyblue;
+  }
+  
+  
+  .flex-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 100px;
+    color: black;
+    
+    
+  }
+  
+  .flex-container > div {
+    background-color: skyblue;
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+    border-radius: 5px;
+  
+  }
+  .main-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    color: black;
+  }
+  footer{
+      background-color: aqua;
+      height: 50px;
+      text-align: center;
+  }
